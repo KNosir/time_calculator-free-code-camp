@@ -100,3 +100,4 @@ def add_time(start_time, limit_time, week_day='0'):
     minute = result % 60
     print(
         f'# Returns: {hour}:{str(minute).zfill(2)} {am_pm}{week_day_print} {day_print}')
+#new line
